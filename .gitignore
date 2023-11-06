@@ -5,3 +5,4 @@ Project 1/models/cat_dog_panda_classifier.pt
 Project 2/opencv-pytorch-dl-course-classification.zip
 Project 2/opencv-pytorch-dl-course-classification/
 *.pt
+*.zip
