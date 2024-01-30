@@ -8,3 +8,5 @@ Project 2/opencv-pytorch-dl-course-classification/
 *.zip
 Project 3/projet3-input-video.mp4
 Project 3/Dataset/
+Project 3/best_loss.pth
+Project 4/data/
